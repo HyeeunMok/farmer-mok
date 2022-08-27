@@ -1,20 +1,22 @@
 import React from 'react';
 import Card from './Card';
 
-const CardList = ({ writings }) => {
+const CardList = ({ poemData }) => {
+  console.log(poemData);
   return (
-    <div>
-      {writings.map((writing, i) => {
+    <>
+      {poemData.map((writing, i) => {
         return (
           <Card
-            key={writings[i].id}
-            id={writings[i].id}
-            title={writings[i].id}
-            category={writings[i].id}
+            key={poemData[i].id}
+            id={poemData[i].id}
+            title={poemData[i].title}
+            category={poemData[i].category}
+            image={poemData[i].image}
           />
         );
       })}
-    </div>
+    </>
   );
 };
 
