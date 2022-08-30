@@ -91,4 +91,27 @@ export const poemData = [
     image:
       'https://images.unsplash.com/photo-1500382017468-9049fed747ef?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=400&h=400&q=80',
   },
+  {
+    id: 5,
+    title: '대추리의 봄',
+    content: `미군기지 확장 반대 구호로 세상이 떠들썩 했던 대추리.
+    그곳에도 어김없이 봄이 찾아 왔다.
+    그러나 대추리의 봄은 적막속에 고요롭다.
+    이제 더이상의 희망도 꿈도 꽃피울수 없는
+    대추리 의 봄. 봄...
+    인적도 없고 부서진 가옥들의 잔재들이 흉물스럽기만 한데
+    뿌연 안개속에 희미한 외동의 불빛마저
+    슬픔에 잠겨있네.
+    철모르는 철새들은 어둠속에 날아들고
+    아는지 모르는지 고향잃은 서러움을...
+    한 서린 눈물 가슴에 안고 역사속에
+    묻혀버릴 대추리여......
+    꽃피고 새울던 그리고 풍장소리 춤을추던 대추리의 봄은 
+    어데로 갔는가
+    아 아 그리워라 대추리의 봄이여
+    `,
+    category: '시',
+    image:
+      'https://images.unsplash.com/photo-1505471768190-275e2ad7b3f9?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=400&h=400&q=80',
+  },
 ];
