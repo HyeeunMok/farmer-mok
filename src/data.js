@@ -114,4 +114,34 @@ export const poemData = [
     image:
       'https://images.unsplash.com/photo-1505471768190-275e2ad7b3f9?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=400&h=400&q=80',
   },
+  {
+    id: 6,
+    title: '정',
+    content: `찬연히 빛나는 새벽별 같은 눈망울에
+    반짝이며 아롱지는 눈물이여
+
+    뿌연 안개 눈앞에 희미하게 가리울때
+    백합처럼 고운얼굴 얼룩지는 눈물이여
+
+    잔잔한 호수위에 일렁이는 파도처럼
+    솟구치는 목메임에 터져나온 울음이여
+
+    하염없이 떨어지는 뜨거운 진주방울
+    진주성을 쌓아볼까 진주방석 만들을까
+    진주발을 엮어서 창가에 드리울가
+
+    위로에 눈물인가 인정에 눈물인가
+    가슴이 메어질듯 복받치는 서러움에
+    말한마디 못하고서
+
+    파도처럼 출렁이는 따스한등 다독이며 
+    무거운 발길 차마나는 돌리었네
+
+     - 어머니 장례 끝내고 출근 했을때
+     이 애자의 눈물을 보며
+    `,
+    category: '시',
+    image:
+      'https://images.unsplash.com/photo-1511711890176-b3a26e4fb6d1?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=400&h=400&q=80',
+  },
 ];
