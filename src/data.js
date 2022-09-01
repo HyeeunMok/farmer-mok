@@ -216,4 +216,35 @@ export const poemData = [
     image:
       'https://images.unsplash.com/photo-1640610033950-a1351ebab311?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=400&h=400&q=80',
   },
+  {
+    id: 8,
+    title: '화무십일홍',
+    content: `화무십일홍이라더니
+
+    아침나절 까지도 찬란한 햇살을 받아
+    
+    눈부시게 화사하더니 무엇이 그리도
+    
+    바쁘던지 그새 하얀 눈꽃이 되어 바람에
+    
+    흩날리는 꽃잎을 바라보니 너무도
+    
+    애석해서 마음마저 아프구나
+    
+    따지고 보면 사람또한 너와 다를게
+    
+    없으련만 그래도 아쉬움이 더하는 것은
+    
+    아마도 너를 더 사랑하기 때문일께다
+    
+                2004. 4. 11.
+    
+                퓨리나 사료 정문앞
+    
+                벚꽃이 지는 것을 바라보며
+    `,
+    category: '시',
+    image:
+      'https://images.unsplash.com/photo-1522383225653-ed111181a951?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=400&h=400&q=80',
+  },
 ];
