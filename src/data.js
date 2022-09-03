@@ -247,4 +247,27 @@ export const poemData = [
     image:
       'https://images.unsplash.com/photo-1522383225653-ed111181a951?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=400&h=400&q=80',
   },
+  {
+    id: 9,
+    title: '초승달 찬가',
+    content: `
+    까만 밤 서쪽하늘에 간신히 걸려있는
+    저 초승달
+    어찌 보면 수줍은 새색시 쌩끗 웃는
+    입술 같고
+    어찌 보면 예쁘게 그린 가느다란
+    눈썹 같기도 한데
+    허공에 손을 뻗으면 다을듯 말듯
+    예쁜 초승달
+    살며시 따다가 님계신 방에 달아놓고 싶어라
+    그리하면 님의 모습도 달님을
+    닮아 가겠지...
+    부부가 오래살면 닮아 가듯이...
+
+                2007년 1월 21일 (섣달 초사흘)
+    `,
+    category: '시',
+    image:
+      'https://images.unsplash.com/photo-1600698476305-57655199b911?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=400&h=400&q=80',
+  },
 ];
