@@ -270,4 +270,27 @@ export const poemData = [
     image:
       'https://images.unsplash.com/photo-1600698476305-57655199b911?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=400&h=400&q=80',
   },
+  {
+    id: 10,
+    title: '9월의 노래',
+    content: `아침 저녁으론 서늘한 바람이 상큼한데
+    한낮에는 따사로운 햇살에 오곡 백과가
+    엉글어 가고
+    들녘에는 어느새 벼이삭이 누렇게 물들어
+    황금물결 넘실대며 파도 치는데
+
+    면장네집 밤나무에서 알밤이 가시옷 벗어놓고
+    양철 지붕위로 땅 땅 소리 울리며
+    떨어지고 또 떨어지네
+
+    담장옆에 한송이 해바라기 꽃
+    둥근얼굴 활짝 웃으면
+    그옛날 우리각시 얼굴이어라...
+
+                              2007년 9월
+    `,
+    category: '시',
+    image:
+      'https://images.unsplash.com/photo-1601284697253-d3bbd1919023?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=400&h=400&q=80',
+  },
 ];
